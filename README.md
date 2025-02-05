@@ -2,6 +2,8 @@
 
 I am a Software Engineering Co-op student at McGill University. I'm an avid learner and passionate about tackling new challenges!
 
+---
+
 <div align="middle">
   <img src="https://raw.githubusercontent.com/flavieq88/github-stats/master/generated/overview.svg#gh-dark-mode-only" width=40% />
   <img src="https://raw.githubusercontent.com/flavieq88/github-stats/master/generated/languages.svg#gh-dark-mode-only" width=40% />
