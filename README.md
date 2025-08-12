@@ -1,6 +1,6 @@
 <div align="middle">
 
-  ![P8FF-3F7F](https://github.com/user-attachments/assets/5c110329-2eff-49c0-b667-a33f2384e424)
+  ![teletext-gif](https://github.com/user-attachments/assets/af9455c1-4df8-4dac-bf90-2eb4678d54f6)
 </div>
 
 ---
